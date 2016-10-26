@@ -1,0 +1,19 @@
+p{
+	font-size:20px;
+}
+img{
+	height:250px;
+	width:250px;
+	border:1px solid black;
+}
+.container{
+	margin-left:100px;
+}
+ul{
+	font-size:18px;
+}
+#home{
+	height:400px;
+	width:800px;
+	border:1px solid black;
+}
